@@ -1,4 +1,4 @@
-# Repositório da disciplina [IF668](http://sites.google.com/cin.ufpe.br/if668) do [CIn-UFPE](http://www.cin.ufpe.br)
+# Repositório da disciplina [IF668](http://sites.google.com/cin.ufpe.br/if668) do [CIn](http://www.cin.ufpe.br)-[UFPE](http://www.ufpe.br)
 
 Neste repositório devem ser colocadas as cartas produzidas para o trabalho sobre [*História da Computação*](https://sites.google.com/cin.ufpe.br/if668/mais-hist%C3%B3ria) da disciplina *IF668 - Introdução à Computação*. As cartas devem ser enviadas via pull request e cada envio deve incluir **EXATAMENTE TRÊS ARQUIVOS**: 
 
