@@ -1,4 +1,6 @@
-Neste repositório devem ser colocadas as cartas produzidas para o trabalho sobre *História da Computação* da disciplina *IF668 - Introdução à Computação*. As cartas devem ser enviadas via pull request e cada envio deve incluir **EXATAMENTE TRÊS ARQUIVOS**: 
+# Repositório da disciplina [IF668](http://sites.google.com/cin.ufpe.br/if668) do [CIn-UFPE](http://www.cin.ufpe.br)
+
+Neste repositório devem ser colocadas as cartas produzidas para o trabalho sobre [*História da Computação*](https://sites.google.com/cin.ufpe.br/if668/mais-hist%C3%B3ria) da disciplina *IF668 - Introdução à Computação*. As cartas devem ser enviadas via pull request e cada envio deve incluir **EXATAMENTE TRÊS ARQUIVOS**: 
 
 - ``<seulogin>1.png`` -- o primeiro arquivo contendo cartas que você produziu. Como espera-se que cada aluno envie 6 cartas, são necessários dois arquivos, já que o modelo comporta apenas três cartas por página (incluindo frente e verso)
 
