@@ -1,0 +1,17 @@
+Imagem da carta número 1 (ASCII) :
+Imagem : Computer History, retirado do seguinte link <http://www.computerhistory.org/timeline/1963/#169ebbe2ad45559efbc6eb35720b967d>
+
+Imagem da carta número 2 (Ada Lovelace):
+Imagem : Domínio Público, retirado do seguinte link <https://pt.wikipedia.org/wiki/Ada_Lovelace#/media/File:Ada_lovelace.jpg>, criação 31 de Dezembro de 1839.
+
+Imagem da carta número 3 (Lisp):
+Imagem: Computer History, retirado do seguinte link <http://www.computerhistory.org/timeline/1958/#169ebbe2ad45559efbc6eb3572075026>
+
+Imagem da carta número 4 (IBM 650): 
+créditos da imagem:  Transferido para Commons por Maksim, Photographer: Mike Cowlishaw (mfc), sob proteção da CC BY-SA 3.0, carregado em 18 de março de 2006, retirado do link <https://en.wikipedia.org/wiki/IBM_650#/media/File:IBM-650-panel.jpg>
+
+Imagem da carta número 5 (QWERTY):
+Crédito da imagem: Trabalho próprio pelo autor MichaelMaggs, sob proteção da CC BY-SA 3.0, Criado em  27 de Agosto de 2007, retirado do link <https://pt.wikipedia.org/wiki/QWERTY#/media/File:QWERTY_keyboard.jpg>
+
+Imagem da carta número 6 (Disquetes):
+Imagem: Domínio Público, tirado pelo próprio autor George Chernilevsky, criado em 7 de Junho de 2009, retirado do link <https://pt.wikipedia.org/wiki/Disquete#/media/File:Floppy_disk_2009_G1.jpg>
