@@ -22,13 +22,15 @@ link: https://commons.wikimedia.org/wiki/File:Ibm_pc_5150.jpg
 Autor = Ruben de Rijcke.
 License:CC Attribution-Share Alike 3.0 Unported (https://creativecommons.org/licenses/by-sa/3.0/deed.en)
 
-
 Title: Deep Blue.
 link: https://commons.wikimedia.org/wiki/File:Deep_Blue.jpg
 Autor: James the fotographer. (https://www.flickr.com/photos/jamesthephotographer/)
 Source:https://www.flickr.com/photos/22453761@N00/592436598/
 License: CC-BY (https://creativecommons.org/licenses/by/2.0/deed.de)
 
-P.S: A imagem da carta de Java é autoria minha :)
+Title: James Gosling 2005.
+link: https://commons.wikimedia.org/wiki/File:James_Gosling_2005.jpg.
+Autor: Swoon~commonswiki.
+Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/deed.en).
 
 *user desatualizado
