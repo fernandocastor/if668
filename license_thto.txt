@@ -1,0 +1,30 @@
+- Licença Steam logo: 
+Link:  https://pt.wikipedia.org/wiki/Steam#/media/File:Steam_Logo.png
+Nome da Licença:  CC BY-SA 3.0 
+Site da licença:  https://creativecommons.org/licenses/by-sa/3.0/
+Autor: Valve
+
+- Licença Windows XP: Logo do Windows XP usada com permissão da Microsoft
+Link:  https://www.palittoconsulting.com/wp-content/uploads/2016/04/windows-xp-logo-featured-image-icon.jpg
+Site da Linceça:  https://www.microsoft.com/en-us/legal/intellectualproperty/permissions
+
+
+- Licença Kurt Gödel: Domínio Público
+Link:  https://pt.wikipedia.org/wiki/Kurt_G%C3%B6del#/media/File:1925_kurt_g%C3%B6del.png
+
+
+- Licença Wi-Fi Alliance: Domínio Público
+Link:  https://en.wikipedia.org/wiki/Wi-Fi_Alliance#/media/File:Wi-Fi_Logo.svg
+
+
+- Licença Conector VGA: 
+Link:  https://pt.wikipedia.org/wiki/Video_Graphics_Array#/media/File:VGA_plug.jpg 
+Nome da licença:  CC BY-SA 3.0 
+Site da licença:  https://creativecommons.org/licenses/by-sa/3.0/
+Autor: 	Katsuki
+
+- Licença PCI-Express:
+Link:  https://pt.wikipedia.org/wiki/PCI_Express#/media/File:Pci_Express_Slot.png
+Nome da licença:  CC0
+Site da licença:  https://creativecommons.org/publicdomain/zero/1.0/deed.en
+
