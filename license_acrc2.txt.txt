@@ -1,0 +1,37 @@
+LICENÇAS
+
+1.Shakey
+Fontes:
+http://www.computerhistory.org/revolution/artificial-intelligence-robotics/13/289/1229?position=0
+https://pt.wikipedia.org/wiki/Shakey
+Imagem:
+https://commons.wikimedia.org/wiki/File:SRI_Shakey_with_callouts.jpg
+->licença:Creative Comons;
+
+2.Mac OS
+
+Fontes:https://pt.wikipedia.org/wiki/Mac_OS_Classic
+Imagem:https://www.flickr.com/photos/microsoftsweden/5395285812
+->licença:https://creativecommons.org/licenses/by/2.0/
+
+3.Cloud Computing 
+
+Fontes:http://blogbrasil.comstor.com/bid/332223/como-surgiu-a-cloud-computing
+Imagem:https://pixabay.com/en/cloud-computing-cloud-system-cloud-2153286/
+->CC Creative Comons (https://pixabay.com/en/service/terms/#usage)
+
+4.Spacewar
+Fonte:https://pt.wikipedia.org/wiki/Spacewar!
+Imagem:https://commons.wikimedia.org/wiki/File:Spacewar!-PDP-1-20070512.jpg
+->licença:https://creativecommons.org/licenses/by/2.0/deed.en
+
+5.Movimento Software Livre
+Fonte:https://pt.wikipedia.org/wiki/Movimento_software_livre
+https://ansol.org/filosofia
+Imagem:https://pt.wikipedia.org/wiki/Richard_Matthew_Stallman#/media/File:Richard_Matthew_Stallman.jpeg
+->licença:https://creativecommons.org/licenses/by-sa/3.0/
+
+6.algoritmo de compressão MPEG áudio layer3(MP3)
+Fonte:https://pt.wikipedia.org/wiki/MP3#O_significado_da_sigla
+Imagem:https://commons.wikimedia.org/wiki/File:Audio-mp3.svg
+->licença:https://creativecommons.org/licenses/by-sa/3.0/deed.en
