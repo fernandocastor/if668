@@ -1,0 +1,38 @@
+﻿- Criação do HTML
+	* IMG : https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png
+	* FONTE : https://commons.wikimedia.org/wiki/File:HTML5_logo_and_wordmark.svg
+	* LICENCA: Attribution 3.0 Unported (CC BY 3.0)
+ 	https://creativecommons.org/licenses/by/3.0/deed.en
+
+
+- Criação do CSS
+	* IMG : https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg
+	* FONTE : https://commons.wikimedia.org/wiki/File:CSS.3.svg
+	* LICENCA: Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+ 		https://creativecommons.org/licenses/by-sa/4.0/deed.en
+
+
+- Criação da Alexa (Assistente pessoal da Amazon)
+	* IMG : https://upload.wikimedia.org/wikipedia/commons/c/cc/Amazon_Alexa_App_Logo.png
+	* FONTE : https://commons.wikimedia.org/wiki/File:Amazon_Alexa_App_Logo.png
+	* LICENCA: Public Domain
+
+
+- Primeiro serviço de Armazenamento em Nuvem
+	* IMG : https://upload.wikimedia.org/wikipedia/commons/f/f2/Cloud_For_Permanent_Digital_Storage.jpg
+	* FONTE : https://commons.wikimedia.org/wiki/File:Cloud_For_Permanent_Digital_Storage.jpg
+	* LICENCA: Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+ 		https://creativecommons.org/licenses/by-sa/3.0/deed.en
+
+
+- Criação AR (Augmented Reality)
+	* IMG : https://upload.wikimedia.org/wikipedia/commons/e/ef/X38_landing_display_from_LandForm_Hybrid_Synthetic_Vision_system..jpg
+	* FONTE : https://commons.wikimedia.org/wiki/File:X38_landing_display_from_LandForm_Hybrid_Synthetic_Vision_system..jpg
+	* LICENCA: Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+ 		https://creativecommons.org/licenses/by-sa/3.0/deed.en
+
+
+- "HACKERS REMOTELY KILL A JEEP ON THE HIGHWAY"
+	* IMG : https://upload.wikimedia.org/wikipedia/commons/7/79/2011_Jeep_Grand_Cherokee_Limited_--_07-03-2010.jpg
+	* FONTE : https://commons.wikimedia.org/wiki/File:2011_Jeep_Grand_Cherokee_Limited_--_07-03-2010.jpg
+	* LICENCA:  Public Domain
