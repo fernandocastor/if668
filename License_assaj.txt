@@ -1,17 +1,37 @@
 Criação do Ábaco romano.
+image: RomanAbacusRecon.jpg
+link:
 https://commons.wikimedia.org/wiki/File:RomanAbacusRecon.jpg
+Atribuição: Creative Commons
 
 Criação do Twitter.
-https://en.wikipedia.org/wiki/Twitter#/media/File:Twitter_bird_logo_2012.svg
+image:twitter-2430933_1280.png
+link:
+https://pixabay.com/en/twitter-social-media-icon-social-2430933/
+Atribuição: Creative Commons
 
 Lançamento do Microsoft MS-DOS.
+image:
+ DOS_incon.png
+link:
 https://pt.wikipedia.org/wiki/MS-DOS#/media/File:Unofficial_DOS_icon.svg
+Atribuicao:  Dominio Publico
 
 Primeiro processador da AMD, ( AMD-K5 ).
+image: AMD_K5_PR166_Front.jpg
+link:
 https://commons.wikimedia.org/wiki/File:AMD_K5_PR166_Front.jpg
+Atribuição:  Creative Commons.
 
 O primeiro smartphone é lançado, Simon da IBM .
+image:
+IBM_Simon_Personal_Communicator.png
+link:
 https://en.wikipedia.org/wiki/IBM_Simon#/media/File:IBM_Simon_Personal_Communicator.png
+atribuição: Dominio Publico
 
 Lançamento do Apricot PC. (primeiro computador pessoal com limitada capacidade de síntese de voz).
+image:Apricot_portable.JPG
+link:
 https://pt.wikipedia.org/wiki/S%C3%ADntese_de_fala#/media/File:Apricot_portable.JPG
+Atribuição: Creative Commons
