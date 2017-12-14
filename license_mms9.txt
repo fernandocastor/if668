@@ -15,8 +15,8 @@ https://commons.wikimedia.org/wiki/File:Jacquard_loom_p1040320.jpg
 Licença: Creative Commons Attribution-Share Alike 3.0 Unported.
 
 Primeiro filme totalmente gerado por computador
-https://commons.wikimedia.org/wiki/File:Polygon_face.jpg
-Licença: Creative Commons Attribution-Share Alike 3.0 Unported.
+https://en.wikipedia.org/wiki/File:Toy_Story.jpg
+Licença: Fair use.
 
 Criação da linguagem PHP
 https://commons.wikimedia.org/wiki/File:PHP-logo.svg
