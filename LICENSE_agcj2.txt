@@ -18,6 +18,6 @@ Criação fundação ISOC:
 Domínio Público
 https://commons.wikimedia.org/wiki/File:Internet_Society_logo_and_wordmark.png
 
-Primeiro modem de PC:
-CC0 1.0 Universal Public Domain Dedication
-https://creativecommons.org/publicdomain/zero/1.0/deed.en
+Primeiro roteador:
+CC BY-SA 3.0
+https://creativecommons.org/licenses/by-sa/3.0
