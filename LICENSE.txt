@@ -1,0 +1,13 @@
++http://images.computerhistory.org/timeline/timeline_ai.robotics_1939_elektro.jpg - Elektro, orobo fumante. Imagem do Computer History Museum.
++
++http://images.computerhistory.org/timeline/timeline_computers_1940.cnc.jpg -Calculadora de numeros complexos. Imagem do Computer History Museum.
++
++http://images.computerhistory.org/timeline/timeline_ai.robotics_1943.pitts.nervous.jpg Criação do Neurônio de McCulloch-Pitts.
++. Imagem do Computer History Museum.
++
++http://images.computerhistory.org/timeline/timeline_ai.robotics_1948_cybernetics.jpg Publicacao do livro Cybernetics. Imagem do Computer History Museum.
++
++http://images.computerhistory.org/timeline/timeline_ai.robotics_1950.elsie_greywalter.jpg Elsie de Grey Walter. Imagem do Computer History Museum.
+
+https://pt.wikipedia.org/wiki/Niklaus_Wirth#/media/File:Niklaus_Wirth,_UrGU.jpg  - Criacao da linguagem Pascal.
+Copyrighted free use
